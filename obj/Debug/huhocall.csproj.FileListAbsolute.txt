@@ -1,0 +1,22 @@
+D:\code\Humain labs guard callout\huhocall\bin\Debug\huhocall.dll
+D:\code\Humain labs guard callout\huhocall\bin\Debug\huhocall.pdb
+D:\code\Humain labs guard callout\huhocall\bin\Debug\LSPD First Response.dll
+D:\code\Humain labs guard callout\huhocall\bin\Debug\RagePluginHookSDK.dll
+D:\code\Humain labs guard callout\huhocall\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\code\Humain labs guard callout\huhocall\bin\Debug\LSPD First Response.pdb
+D:\code\Humain labs guard callout\huhocall\obj\Debug\huhocall.csproj.AssemblyReference.cache
+D:\code\Humain labs guard callout\huhocall\obj\Debug\huhocall.csproj.CoreCompileInputs.cache
+D:\code\Humain labs guard callout\huhocall\obj\Debug\huhocall.csproj.CopyComplete
+D:\code\Humain labs guard callout\huhocall\obj\Debug\huhocall.dll
+D:\code\Humain labs guard callout\huhocall\obj\Debug\huhocall.pdb
+F:\code\Humain labs guard callout\huhocall\bin\Debug\huhocall.dll
+F:\code\Humain labs guard callout\huhocall\bin\Debug\huhocall.pdb
+F:\code\Humain labs guard callout\huhocall\bin\Debug\LSPD First Response.dll
+F:\code\Humain labs guard callout\huhocall\bin\Debug\RagePluginHookSDK.dll
+F:\code\Humain labs guard callout\huhocall\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\code\Humain labs guard callout\huhocall\bin\Debug\LSPD First Response.pdb
+F:\code\Humain labs guard callout\huhocall\obj\Debug\huhocall.csproj.AssemblyReference.cache
+F:\code\Humain labs guard callout\huhocall\obj\Debug\huhocall.csproj.CoreCompileInputs.cache
+F:\code\Humain labs guard callout\huhocall\obj\Debug\huhocall.csproj.CopyComplete
+F:\code\Humain labs guard callout\huhocall\obj\Debug\huhocall.dll
+F:\code\Humain labs guard callout\huhocall\obj\Debug\huhocall.pdb
